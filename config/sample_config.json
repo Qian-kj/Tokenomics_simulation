@@ -1,0 +1,13 @@
+{
+  "sim_type": 2,
+  "baseline_type": 2,
+  "emission_type": 2,
+  "coefficient_type": 2,
+  "token_type": 2,
+  "num_rounds": 3,
+  "num_agent": 7,
+  "avg_window_size": 24,
+  "num_update_cycle": -1,
+  "vis_token_alloc_plot": 1,
+  "vis_anim_token_alloc_plot": 1
+}
